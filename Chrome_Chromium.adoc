@@ -1,0 +1,58 @@
+= Google Chrome/ChromiumでのChromecast利用例
+Kenichiro MATOHARA <matoken@gmail.com>
+v1.0, 2016-05-20
+
+ここではGoogle Chrome / ChromiumのGoogle Cast拡張機能を利用して画面をキャストする方法を説明しています．
+
+== Google Chrome / Chromiumの導入
+
+ディストリビューションのパッケージや，以下のページから入手して導入する．
+
+* https://www.google.com/chrome/browser/desktop/index.html[Chrome ブラウザ]
+
+== Google Cast拡張機能の導入
+
+Google Chrome / Chromium向けのGoogle Cast拡張機能が提供されている．
+通常版とBetaの2つが提供されている．現代はどちらでも全画面Castが可能になっているのでお好みの方を導入する．（両方を導入することも可能）
+
+Google Chrome/Chromiumで以下のURLにアクセスして導入する．
+
+* https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd?utm_source=chrome-ntp-icon[Google Cast - Chrome ウェブストア]
+* https://chrome.google.com/webstore/detail/google-cast-beta/dliochdbjfkdbacpmhlcpmleaejidimm?utm_source=chrome-ntp-icon[Google Cast (Beta) - Chrome ウェブストア]
+
+
+image:image/Chromecast_Chrome01.jpg[]
+
+image:image/Chromecast_Chrome02.jpg[]
+
+image:image/Chromecast_Chrome03.jpg[]
+
+image:image/Chromecast_Chrome04.jpg[]
+
+image:image/Chromecast_Chrome05.jpg[]
+
+== 画面のキャスト
+
+Chromecastをモニタに接続して電源の入った状態でGoogle CastのアイコンをクリックしてChromecastが認識しているのを確認．
+左上のプルダウンボタンを押す．
+
+image:image/Chromecast_Chrome06.jpg[]
+
+「画面やウィンドウをキャスト」を選択する．
+
+image:image/Chromecast_Chrome07.jpg[]
+
+Chromecastを選択する．
+
+image:image/Chromecast_Chrome08.jpg[]
+
+画面の共有画面になるので，キャストしたいアプリケーションか「画面全体」を選ぶ．
+
+image:image/Chromecast_Chrome09.jpg[]
+
+== キャストの終了
+
+他の人がキャストをはじめると切断される．
+自分で切断する場合は，Google Chrome/ChromecastのGoogle Castのアイコンをクリックして「キャストを停止」を選ぶ．
+
+image:image/Chromecast_Chrome10.jpg[]
