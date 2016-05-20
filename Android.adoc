@@ -32,6 +32,12 @@ image:image/Chromecast_Android03.jpg[]
 
 image:image/Chromecast_Android04.jpg[]
 
+以下はSlideShareアプリを利用した時の例．
+
+image:image/SlideShare.jpg[]
+
+
+
 == キャストの終了
 
 他の人がキャストをはじめると切断される．
@@ -43,5 +49,8 @@ image:image/Chromecast_Android05.jpg[]
 
 * https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides[Googleスライド - Google Play の Android アプリ] +
 Chromecastへのキャスト機能がある．前もってローカルにデータをダウンロードしておいたほうが良い．
+
+image:image/GoogleSlide.jpg[]
+
 * https://www.linux.com/learn/how-stream-content-linux-system-chromecast[How to Stream Content from a Linux System to Chromecast | Linux.com | The source for Linux information] +
 Androidアプリの https://play.google.com/store/apps/details?id=com.estrongs.android.pop[ES ファイルエクスプローラー]の Chromecastプラグイン(https://play.google.com/store/apps/details?id=com.estrongs.chromecast[ES Chromecast plugin])を利用してsamba内のコンテンツをキャストする手順．主に映像，音楽向け．画像もいけるのでスライドを画像で用意しておけば発表も出来そう．
