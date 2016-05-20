@@ -1,0 +1,20 @@
+= Chromecastを使ってプロジェクタを複数人で使い回すメモ
+Kenichiro MATOHARA <matoken@gmail.com>
+v1.0, 2016-05-20
+
+Kagolug向け
+
+- [[KagoLUG:350] プロジェクタ利用にChromecastを使ってみたい(Re: 鹿児島Linux勉強会2016.05 05/21(土))](http://list.kagolug.org/pipermail/users/2016-May/000350.html "[KagoLUG:350] プロジェクタ利用にChromecastを使ってみたい(Re: 鹿児島Linux勉強会2016.05 05/21(土))")
+
+== 書いたもの
+
+- [Google Chrome / Chromium 向け](Chrome_Chromium.html)
+- [Android 向け](Android.html)
+
+
+== 書きたいもの
+
+- Chromecast自体の設定
+- iOS向け
+
+
