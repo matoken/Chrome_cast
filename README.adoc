@@ -6,6 +6,10 @@ Kagolug向け
 
 http://list.kagolug.org/pipermail/users/2016-May/000350.html[[KagoLUG:350\] プロジェクタ利用にChromecastを使ってみたい(Re: 鹿児島Linux勉強会2016.05 05/21(土))]
 
+== きっかけ
+
+https://twitter.com/nogajun/status/721225567329124352[nogajunさんのツイート: "@matoken Chromecastを使って、みんながプロジェクターに出せるようにしてて、たまに写して書いている様子を見せると「書くものかー」と思うかもですね"]
+
 == メリット
 
 - 煩わしいケーブルの取り回しが要らない
